@@ -1,0 +1,2 @@
+{"timestamp": "2026-10-08T19:16:02.920617+00:00", "query": "test query", "agent": "test", "input_tokens": 10, "output_tokens": 5, "cost_usd": 0.0, "cost_per_1000_queries": 0.0}
+{"timestamp": "2026-10-08T19:30:10.393431+00:00", "query": "how many documents are uploaded", "agent": "manager:quantitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1000_queries": 0.0}
